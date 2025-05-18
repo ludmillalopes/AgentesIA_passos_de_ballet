@@ -64,10 +64,6 @@ Se você tem interesse em colaborar, aqui estão algumas formas de fazer isso:
 
 Estou ansioso para colaborar e aprender com a comunidade\!
 
-### 🏆 Premiação
-
-Este projeto foi desenvolvido com entusiasmo para a premiação de melhores projetos da **Imersão IA da Alura** e do **Google Gemini**.
-
 ### ⏭️ Próximos Passos
 
 Acreditamos no potencial desta ferramenta e temos a intenção de continuar o seu desenvolvimento, buscando torná-la ainda mais funcional e útil para a comunidade da dança. Algumas ideias para o futuro incluem:
@@ -79,6 +75,7 @@ Acreditamos no potencial desta ferramenta e temos a intenção de continuar o se
 
 ### 🙏 Agradecimentos
 
+Este projeto foi desenvolvido com entusiasmo para a premiação de melhores projetos da **Imersão IA da Alura** e do **Google Gemini**.
 Gostaria de agradecer à [Alura](https://www.alura.com.br/) e ao [Google Gemini](https://ai.google.dev/) pela oportunidade de aprendizado e pela inspiração para este projeto. Agradeço também a todos os instrutores e colegas da Imersão IA pelo apoio e troca de conhecimentos.
 
 
